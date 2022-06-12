@@ -1,0 +1,6 @@
+[submodule "CmdLine"]
+	path = CmdLine
+	url = https://github.com/avt82/lib_CmdLine.git
+[submodule "Utilities"]
+	path = Utilities
+	url = https://github.com/avt82/lib_Utilities.git
